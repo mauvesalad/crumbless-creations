@@ -1,0 +1,3 @@
+Sitemap: https://mauvesalad.github.io/crumbless-creations/sitemap.xml
+User-agent:*
+Disallow:
